@@ -1,4 +1,4 @@
-# 📈 NVIDIA Stock Market Analysis
+# NVIDIA Stock Market Analysis
 
 This project performs detailed **exploratory data analysis (EDA)** and **time series preprocessing** on historical stock price data of **NVIDIA Corporation**. The goal is to extract meaningful patterns, understand volatility and seasonal behavior, and prepare the data for forecasting.
 
@@ -16,7 +16,7 @@ This project performs detailed **exploratory data analysis (EDA)** and **time se
 
 ## Dataset
 
-- **Source:** Historical daily stock prices for NVIDIA
+- **Source:** Historical daily stock prices for NVIDIA: [**Link**](https://www.kaggle.com/datasets/adilshamim8/nvidia-stock-market-history/data)
 - **Columns:**
   - `Date`: Trading date
   - `Open`, `High`, `Low`, `Close`: Stock price metrics
@@ -31,7 +31,6 @@ This project performs detailed **exploratory data analysis (EDA)** and **time se
 - Analyzed **volume trends** and price ranges to identify volatility clusters
 - Created correlation heatmaps to evaluate inter-feature relationships
 - Investigated **seasonal trends** by month and weekday
-- Identified outlier days with abnormal returns (> ±5%)
 
 ---
 
