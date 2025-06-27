@@ -10,7 +10,6 @@ This project performs detailed **exploratory data analysis (EDA)** and **time se
 - Perform statistical analysis including stationarity testing using the ADF test
 - Visualize daily returns, moving averages, trading volume, and seasonal effects
 - Prepare the dataset for future forecasting by addressing non-stationarity
-- Explore autocorrelation (ACF) and partial autocorrelation (PACF) patterns
 
 ---
 
@@ -46,6 +45,6 @@ This project performs detailed **exploratory data analysis (EDA)** and **time se
 ## Tech Stack
 
 - **Python**
-- **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Statsmodels`, `Plotly`
+- **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Statsmodels`
 
 ---
